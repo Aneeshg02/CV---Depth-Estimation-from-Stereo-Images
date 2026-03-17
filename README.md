@@ -20,7 +20,7 @@ pip install opencv-python numpy matplotlib scikit-learn torch
 
 ## How to Run
 1. Open juypter notebook.
-2. Oopen source code(CV_project.ipynb).
+2. Open source code(CV_project.ipynb).
 3. BASE_PATH = "Choose your dataset path".
 4. Run the every cell.
 
